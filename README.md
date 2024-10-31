@@ -1,5 +1,5 @@
-# Links Sociais
+# Links de Redes Sociais
 
-Um pequeno site criado em html e css para criar um mini portfólio com uma imagem e todos os meus links sociais.
+Um pequeno site criado em html e css para criar um mini portfólio com uma imagem e todos os meus links de redes sociais.
 
-![Screenshot](./2023-04-21_19-49.png)
+![Screenshot](./screenshot.png)
